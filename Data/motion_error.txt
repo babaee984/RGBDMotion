@@ -1,0 +1,2 @@
+# Translation error (m), Rotation error (deg)
+0.098410 2.265408
